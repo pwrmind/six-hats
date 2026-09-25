@@ -1,4 +1,4 @@
-# GigaCode Six Hats Skills
+# 🎩 Six Hats Skills
 
 Набор из 6 навыков (`SKILL.md`) для ИИ-ассистентов GigaCode, VS Code, JetBrains IDE и других Agent Skills-совместимых сред.
 
