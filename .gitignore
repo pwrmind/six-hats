@@ -3,6 +3,7 @@
 .idea/
 .vscode/
 *.iml
+.gigacode_vsc/
 
 # OS
 .DS_Store
