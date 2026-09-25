@@ -1,0 +1,12 @@
+{
+  "identifier": "six-hats",
+  "name": "Six Hats Method",
+  "description": "Фасилитирует анализ идей, фич и архитектурных решений по методу шести шляп Эдварда де Боно. Используется для брейнштормов, оценки рисков, поиска альтернатив и всестороннего разбора сложных задач.",
+  "author": "pwrmind",
+  "avatar": "🎩",
+  "tags": ["agile", "brainstorming", "productivity", "management"],
+  "version": "1.0.0",
+  "schema": "https://githubusercontent.com",
+  "homepage": "https://github.com/pwrmind/six-hats",
+  "createdAt": "2026-09-25"
+}
